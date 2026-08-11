@@ -45,12 +45,11 @@ When adding new terms, follow these conventions:
 
 ```markdown
 ### Term Name
-
-*Source: **Source Name***
+*Sources (N): Source Name; Source Name*
 
 Clear, concise definition. Keep it accurate and complete. No truncation.
 
-**Additional context:**
+**Additional context from other sources:**
 
 > Definition from another source providing supplementary perspective.
 ---
@@ -59,32 +58,33 @@ Clear, concise definition. Keep it accurate and complete. No truncation.
 **Formatting rules:**
 
 - Use `###` (H3) for each term heading
-- Include at least one source attribution per term
+- Include source attribution with count and human-readable source names
 - Preserve full definitions — no summarization or shortening
 - If multiple sources contribute, use the most authoritative as primary
 - End every entry with `---\n\n` separator
 
-**Source name abbreviations:**
+**Source reference table:**
 
-| Source | Display Name |
-|--------|-------------|
-| irs_vita | IRS VITA Courseware |
-| irs_student | IRS Student Guide |
-| turbotax | TurboTax Intuit |
-| thomson_reuters | Thomson Reuters |
-| taxgpt | TaxGPT |
-| bluewatertax | Blue Water Tax |
-| htj_tax | HTJ Tax |
-| taxdefense | Tax Defense Network |
-| mytaxrights | MyTaxRights.org |
-| npbctax | NPBC Accounting & Tax |
-| taxpolicycenter | Tax Policy Center |
-| taxfoundation | Tax Foundation |
-| instead | Instead |
-| vermont | VT Dept of Taxes |
-| msu_law | MSU Law Clinic |
-| tax1099 | Tax1099 |
-| taxdome | TaxDome |
+| Key | Display Name |
+|-----|-------------|
+| irs_vita | IRS VITA Glossary |
+| irs_student | IRS Understanding Taxes Student Glossary |
+| turbotax | TurboTax/Intuit Tax Terms Glossary |
+| thomson_reuters | Thomson Reuters Tax Glossary |
+| taxgpt | TaxGPT Tax Glossary |
+| bluewatertax | Blue Water Tax Glossary |
+| htj_tax | HTJ Tax American Tax Glossary |
+| taxdefense | Tax Defense Network Tax Definitions |
+| mytaxrights | MyTaxRights.org Tax Glossary |
+| npbctax | NPBC Tax Glossary |
+| taxpolicycenter | Tax Policy Center Briefing Book |
+| taxfoundation | Tax Foundation TaxEDU Glossary |
+| instead | Instead.com Tax Glossary |
+| vermont | Vermont Department of Taxes Glossary |
+| msu_law | MSU Law Tax Clinic Glossary |
+| tax1099 | Tax1099.com Glossary |
+| taxdome | TaxDome Glossary |
+| github_legacy | PracticeGrowth Tax Glossary (curated) |
 
 ## Quality Standards
 
@@ -101,17 +101,17 @@ Before submitting:
 ```
 practicegrowth-tax-glossary/
 ├── README.md              # Project overview
-├── _all-terms.json         # Machine-readable index
+├── _all-terms.json         # Machine-readable index (1,131 terms)
 ├── CONTRIBUTING.md         # This file
 └── terms/                  # Alphabetically chunked files
-    ├── A-C.md              # ~175 terms
-    ├── D-F.md              # ~298 terms
-    ├── G-I.md              # ~93 terms
-    ├── J-L.md              # ~35 terms
-    ├── M-O.md              # ~91 terms
-    ├── P-R.md              # ~127 terms
-    ├── S-U.md              # ~166 terms
-    └── V-Z.md              # ~40 terms
+    ├── A-C.md              # 209 terms
+    ├── D-F.md              # 211 terms
+    ├── G-I.md              # 97 terms
+    ├── J-L.md              # 36 terms
+    ├── M-O.md              # 84 terms
+    ├── P-R.md              # 102 terms
+    ├── S-U.md              # 176 terms
+    └── V-Z.md              # 216 terms
 ```
 
 ## Questions?
