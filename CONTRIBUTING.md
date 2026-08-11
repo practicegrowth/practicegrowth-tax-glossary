@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an open-source tax glossary maintained by **[PracticeGrowth.Tech](https://practicegrowth.tech)**. We welcome contributions that improve accuracy, expand coverage, or enhance clarity.
+This is an open-source tax glossary maintained by **[PracticeGrowth.Tech](https://www.PracticeGrowth.tech)**. We welcome contributions that improve accuracy, expand coverage, or enhance clarity.
 
 ## Scope
 
@@ -120,4 +120,4 @@ Open a GitHub issue labeled `question` or contact us at hello@practicegrowth.tec
 
 ---
 
-*Maintained by PracticeGrowth.Tech — https://practicegrowth.tech*
+*Maintained by PracticeGrowth.Tech — https://www.PracticeGrowth.tech*

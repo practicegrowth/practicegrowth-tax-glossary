@@ -1,6 +1,6 @@
 # PracticeGrowth Tax Terms Glossary
 
-> An open-source, comprehensive tax glossary compiled from **18 authoritative sources**, maintained by **[PracticeGrowth.Tech](https://practicegrowth.tech)**.
+> An open-source, comprehensive tax glossary compiled from **18 authoritative sources**, maintained by **[PracticeGrowth.Tech](https://www.PracticeGrowth.tech)**.
 
 ---
 
@@ -75,4 +75,4 @@ Definitions are **not** shortened or summarized. We preserve full explanatory co
 
 ---
 
-*Maintained by PracticeGrowth.Tech — https://practicegrowth.tech*
+*Maintained by PracticeGrowth.Tech — https://www.PracticeGrowth.tech*

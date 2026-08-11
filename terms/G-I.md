@@ -1,6 +1,6 @@
 # PracticeGrowth Tax Terms Glossary
 > Compiled from **18 authoritative tax sources**.
-> Maintained by **[PracticeGrowth.Tech](https://practicegrowth.tech)**
+> Maintained by **[PracticeGrowth.Tech](https://www.PracticeGrowth.tech)**
 ---
 
 **Last updated:** August 11, 2026
