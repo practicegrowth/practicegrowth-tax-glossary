@@ -13,8 +13,15 @@
 |------|----------|
 | [`README.md`](README.md) | This file |
 | [`_all-terms.json`](https://github.com/PracticeGrowth/practicegrowth-tax-glossary/blob/main/_all-terms.json) | Machine-readable index |
-| [`terms-A-M.md`](https://github.com/PracticeGrowth/practicegrowth-tax-glossary/blob/main/terms-A-M.md) | Terms A – M |
-| [`terms-N-Z.md`](https://github.com/PracticeGrowth/practicegrowth-tax-glossary/blob/main/terms-N-Z.md) | Terms N – Z |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution guidelines |
+| [`terms/A-C.md`](terms/A-C.md) | Terms A–C (~175) |
+| [`terms/D-F.md`](terms/D-F.md) | Terms D–F (~298) |
+| [`terms/G-I.md`](terms/G-I.md) | Terms G–I (~93) |
+| [`terms/J-L.md`](terms/J-L.md) | Terms J–L (~35) |
+| [`terms/M-O.md`](terms/M-O.md) | Terms M–O (~91) |
+| [`terms/P-R.md`](terms/P-R.md) | Terms P–R (~127) |
+| [`terms/S-U.md`](terms/S-U.md) | Terms S–U (~166) |
+| [`terms/V-Z.md`](terms/V-Z.md) | Terms V–Z (~40) |
 
 ---
 
